@@ -9,7 +9,7 @@
   <h3 align="center">Amazon Clone Using ReactJS</h3>
 
   <p align="center">
-    Full stack amazon clone using reactjs integreated with firebase authetication, functions, database, hosting. 
+    Full-stack amazon clone using reactjs integrated with firebase authentication, functions, database, hosting. 
     Fully functional e-commerce with stripe payment gateway.
     <br />
     <a href="https://clone-6afbf.web.app/"><strong>View Live Website »</strong></a>
