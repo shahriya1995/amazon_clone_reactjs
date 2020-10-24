@@ -15,6 +15,7 @@
     "firebase": "^7.24.0",
     "moment": "^2.29.1",
     "react": "^16.14.0",
+    "react-alice-carousel": "^2.0.2",
     "react-currency-format": "^1.0.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.2.0",

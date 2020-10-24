@@ -1,40 +1,50 @@
 import React from "react";
 import './Home.css'
 import Product from "../Product/Product";
+import AliceCarousel from 'react-alice-carousel';
+import "react-alice-carousel/lib/alice-carousel.css";
+import image from '../../images/cover-photo-1.png';
+import product1 from "../../images/product-1.jpg";
+import product2 from "../../images/product-2.jpg";
+import product3 from "../../images/product-3.jpg";
+import product4 from "../../images/product-4.jpg";
+
 function Home() {
     return (
         <div className="home">
+
             <div className="home__container">
                 <img
                     className="home__image"
-                    src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
+                    src={image}
                     alt=""
                 />
+
 
                 <div className="home__row">
                     <Product
                         id="12321341"
-                        title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-                        price={11.96}
-                        rating={5}
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+                        title="Laptop Stand, ezbnb Ergonomic Height Angle Adjustable Computer Laptop Holder, Laptop Stand for Desk with Big Heat-Vent, Compatible for MacBook Pro/Air, Air, Dell,HP, Samsung All Laptops 8-15"
+                        price={39.99}
+                        rating={4}
+                        image={product1}
                     />
                     <Product
                         id="49538094"
-                        title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
-                        price={239.0}
+                        title="Feternal Unisex Fashion Adjustable Dust Mask, Floral/Vintage/Christmas Print Mask Washable Reusable Floral Mask for Indoor and Outdoor Party Activities"
+                        price={8.99}
                         rating={4}
-                        image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+                        image={product2}
                     />
                 </div>
 
                 <div className="home__row">
                     <Product
                         id="4903850"
-                        title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
-                        price={199.99}
-                        rating={3}
-                        image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
+                        title="The Hundred-Page Machine Learning Book"
+                        price={32.99}
+                        rating={5}
+                        image={product3}
                     />
                     <Product
                         id="23445930"
@@ -45,12 +55,13 @@ function Home() {
                     />
                     <Product
                         id="3254354345"
-                        title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
-                        price={598.99}
+                        title="iJoy Matte Finish Premium Rechargeable Wireless Headphones Bluetooth Over Ear Headphones Foldable Headset with Mic (Stealth)"
+                        price={16.99}
                         rating={4}
-                        image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
+                        image={product4}
                     />
                 </div>
+
 
                 <div className="home__row">
                     <Product

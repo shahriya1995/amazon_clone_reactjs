@@ -24,7 +24,7 @@
 
 ### Dashboard
 <a href="">
-    <img src="amazon-clone.png" alt="finalpage" width="80%" height="50%">
+    <img src="dashboard1.png" alt="finalpage" width="80%" height="50%">
   </a>
   <br />
 
@@ -35,27 +35,27 @@
   
 ### Checkout Page
 <a href="">
-    <img src="checkout.png" alt="finalpage" width="80%" height="50%">
+    <img src="checkout2.png" alt="finalpage" width="80%" height="50%">
   </a>
   <br />
 
 ### Previous Orders(Review Orders page)
 <a href="">
-    <img src="previous_orders.png" alt="finalpage" width="80%" height="50%">
+    <img src="orders_returns.png" alt="finalpage" width="80%" height="50%">
   </a>
   <br />
 
 ## Built With
 
-* [React JS]()
-* [React Hooks]()
-* [React Context API]()
-* [HTML5]()
-* [CSS3]()
-* [Firebase]()
-* [Stripe Gateway]()
-* [Node js]()
-* [Express JS]()
+* [React JS](https://reactjs.org/)
+* [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+* [React Context API](https://reactjs.org/docs/context.html)
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+* [Firebase](https://firebase.google.com/docs)
+* [Stripe Gateway](https://stripe.com/docs)
+* [Node js](https://nodejs.org/en/docs/)
+* [Express JS](https://expressjs.com/en/guide/routing.html)
 
 <!-- GETTING STARTED -->
 ## Getting Started
