@@ -19,24 +19,33 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
-* [Roadmap](#roadmap)
-* [Contact](#contact)
-
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Final Project Screenshots
 
-[![Amazon Clone Website]](amazon-clone.png)
+### Dashboard
+<a href="">
+    <img src="amazon-clone.png" alt="finalpage" width="80%" height="50%">
+  </a>
+  <br />
 
-### Built With
+### Login Page
+<a href="">
+    <img src="login.png" alt="finalpage" width="80%" height="50%">
+  </a>
+  
+### Checkout Page
+<a href="">
+    <img src="checkout.png" alt="finalpage" width="80%" height="50%">
+  </a>
+  <br />
+
+### Previous Orders(Review Orders page)
+<a href="">
+    <img src="previous_orders.png" alt="finalpage" width="80%" height="50%">
+  </a>
+  <br />
+
+## Built With
 
 * [React JS]()
 * [React Hooks]()
@@ -47,8 +56,6 @@
 * [Stripe Gateway]()
 * [Node js]()
 * [Express JS]()
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
