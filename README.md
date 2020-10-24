@@ -84,8 +84,8 @@ npm install
 
 ### for developers
 1. In order to set up your own Firebase Authentication.  
-    a. [Login to firebase](https://firebase.google.com/).  
-    b. [Setup your own firebase application](https://firebase.google.com/docs/web/setup). 
+    a. [Login to firebase](https://firebase.google.com/)   
+    b. [Setup your own firebase application](https://firebase.google.com/docs/web/setup)  
     c. Copy the configuration in config.js file. 
     
     
@@ -97,11 +97,11 @@ npm install
 ## Contact
 
 Riya Shah-  
-[LinkedIn](https://www.linkedin.com/in/riyarahulshah/).     
-[Portfolio](riya.netlify.app).    
-Email - riyashah0595@gmail.com. 
+[LinkedIn](https://www.linkedin.com/in/riyarahulshah/)     
+[Portfolio](riya.netlify.app)     
+Email - riyashah0595@gmail.com  
            
-Live Website Link: [https://clone-6afbf.web.app/](https://clone-6afbf.web.app/).   
-Project Link: [https://github.com/shahriya1995/amazon_clone_reactjs.git](https://github.com/shahriya1995/amazon_clone_reactjs.git).   
+Live Website Link: [https://clone-6afbf.web.app/](https://clone-6afbf.web.app/)   
+Project Link: [https://github.com/shahriya1995/amazon_clone_reactjs.git](https://github.com/shahriya1995/amazon_clone_reactjs.git)    
 
 
